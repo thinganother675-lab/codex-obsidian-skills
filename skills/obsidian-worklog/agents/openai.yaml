@@ -1,0 +1,7 @@
+interface:
+  display_name: "Obsidian Worklog"
+  short_description: "Recall and preserve durable engineering context"
+  default_prompt: "Use $obsidian-worklog to recall relevant prior context before substantial project work and preserve new durable conclusions afterward."
+
+policy:
+  allow_implicit_invocation: true
